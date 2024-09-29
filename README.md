@@ -42,3 +42,12 @@ This interactive **Bicycle Shop Sales Dashboard** provides a detailed analysis o
   
 - Business owners can make informed decisions regarding **inventory management**, **sales strategy**, and **marketing efforts** based on the visualized data.
 
+  ##Dashboard.
+
+  ![Bicycle Sales dashboard snippit](https://github.com/user-attachments/assets/004bfd9b-dff8-443b-ad17-e61a07b00a06)
+
+
+
+
+  
+
